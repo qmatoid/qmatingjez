@@ -1,0 +1,20 @@
+body {
+    background-color: aquamarine;
+    margin: 0;
+}
+
+#canvas {
+    margin: 0px;
+    position: absolute;
+}
+
+#player {
+    margin: 0px;
+    position: absolute;
+    z-index: 1;
+}
+
+#moby {
+    z-index: -1;
+    display: none;
+}
